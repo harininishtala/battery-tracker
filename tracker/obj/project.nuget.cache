@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YAu3cjc8VpQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Harini\\OneDrive\\Desktop\\Battery Tracker\\battery-tracker\\tracker\\tracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harini\\.nuget\\packages\\system.codedom\\9.0.1\\system.codedom.9.0.1.nupkg.sha512",
+    "C:\\Users\\Harini\\.nuget\\packages\\system.management\\9.0.1\\system.management.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
